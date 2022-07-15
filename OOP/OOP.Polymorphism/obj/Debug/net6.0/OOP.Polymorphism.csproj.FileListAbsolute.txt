@@ -1,0 +1,15 @@
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\bin\Debug\net6.0\OOP.Polymorphism.exe
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\bin\Debug\net6.0\OOP.Polymorphism.deps.json
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\bin\Debug\net6.0\OOP.Polymorphism.runtimeconfig.json
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\bin\Debug\net6.0\OOP.Polymorphism.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\bin\Debug\net6.0\OOP.Polymorphism.pdb
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\OOP.Polymorphism.csproj.AssemblyReference.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\OOP.Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\OOP.Polymorphism.AssemblyInfoInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\OOP.Polymorphism.AssemblyInfo.cs
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\OOP.Polymorphism.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\OOP.Polymorphism.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\refint\OOP.Polymorphism.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\OOP.Polymorphism.pdb
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\OOP.Polymorphism.genruntimeconfig.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Polymorphism\obj\Debug\net6.0\ref\OOP.Polymorphism.dll

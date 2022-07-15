@@ -1,0 +1,15 @@
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\bin\Debug\net6.0\MyCSharpDataStructure.Anagram.exe
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\bin\Debug\net6.0\MyCSharpDataStructure.Anagram.deps.json
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\bin\Debug\net6.0\MyCSharpDataStructure.Anagram.runtimeconfig.json
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\bin\Debug\net6.0\MyCSharpDataStructure.Anagram.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\bin\Debug\net6.0\ref\MyCSharpDataStructure.Anagram.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\bin\Debug\net6.0\MyCSharpDataStructure.Anagram.pdb
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\obj\Debug\net6.0\MyCSharpDataStructure.Anagram.csproj.AssemblyReference.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\obj\Debug\net6.0\MyCSharpDataStructure.Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\obj\Debug\net6.0\MyCSharpDataStructure.Anagram.AssemblyInfoInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\obj\Debug\net6.0\MyCSharpDataStructure.Anagram.AssemblyInfo.cs
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\obj\Debug\net6.0\MyCSharpDataStructure.Anagram.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\obj\Debug\net6.0\MyCSharpDataStructure.Anagram.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\obj\Debug\net6.0\ref\MyCSharpDataStructure.Anagram.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\obj\Debug\net6.0\MyCSharpDataStructure.Anagram.pdb
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.Anagram\obj\Debug\net6.0\MyCSharpDataStructure.Anagram.genruntimeconfig.cache

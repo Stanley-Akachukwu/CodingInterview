@@ -1,0 +1,15 @@
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.TwoSum.exe
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.TwoSum.deps.json
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.TwoSum.runtimeconfig.json
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.TwoSum.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\ref\MyCSharpDataStructure.TwoSum.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.TwoSum.pdb
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.TwoSum.csproj.AssemblyReference.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.TwoSum.AssemblyInfoInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.TwoSum.AssemblyInfo.cs
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.TwoSum.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.TwoSum.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\ref\MyCSharpDataStructure.TwoSum.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.TwoSum.pdb
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.TwoSum.genruntimeconfig.cache

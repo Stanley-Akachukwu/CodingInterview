@@ -1,0 +1,15 @@
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.exe
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.deps.json
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.runtimeconfig.json
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\ref\MyCSharpDataStructure.FindIndicesOfTwoSum.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\bin\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.pdb
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.csproj.AssemblyReference.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.AssemblyInfoInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.AssemblyInfo.cs
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\ref\MyCSharpDataStructure.FindIndicesOfTwoSum.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.pdb
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.TwoSum\obj\Debug\net6.0\MyCSharpDataStructure.FindIndicesOfTwoSum.genruntimeconfig.cache

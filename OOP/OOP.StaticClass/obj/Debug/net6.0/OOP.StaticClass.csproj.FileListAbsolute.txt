@@ -1,0 +1,15 @@
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\bin\Debug\net6.0\OOP.StaticClass.exe
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\bin\Debug\net6.0\OOP.StaticClass.deps.json
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\bin\Debug\net6.0\OOP.StaticClass.runtimeconfig.json
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\bin\Debug\net6.0\OOP.StaticClass.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\bin\Debug\net6.0\OOP.StaticClass.pdb
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\OOP.StaticClass.csproj.AssemblyReference.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\OOP.StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\OOP.StaticClass.AssemblyInfoInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\OOP.StaticClass.AssemblyInfo.cs
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\OOP.StaticClass.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\OOP.StaticClass.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\refint\OOP.StaticClass.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\OOP.StaticClass.pdb
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\OOP.StaticClass.genruntimeconfig.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.StaticClass\obj\Debug\net6.0\ref\OOP.StaticClass.dll

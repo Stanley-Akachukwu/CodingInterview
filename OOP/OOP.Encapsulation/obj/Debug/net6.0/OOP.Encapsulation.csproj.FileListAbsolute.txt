@@ -1,0 +1,15 @@
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\bin\Debug\net6.0\OOP.Encapsulation.exe
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\bin\Debug\net6.0\OOP.Encapsulation.deps.json
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\bin\Debug\net6.0\OOP.Encapsulation.runtimeconfig.json
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\bin\Debug\net6.0\OOP.Encapsulation.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\bin\Debug\net6.0\OOP.Encapsulation.pdb
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\OOP.Encapsulation.csproj.AssemblyReference.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\OOP.Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\OOP.Encapsulation.AssemblyInfoInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\OOP.Encapsulation.AssemblyInfo.cs
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\OOP.Encapsulation.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\OOP.Encapsulation.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\refint\OOP.Encapsulation.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\OOP.Encapsulation.pdb
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\OOP.Encapsulation.genruntimeconfig.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Encapsulation\obj\Debug\net6.0\ref\OOP.Encapsulation.dll

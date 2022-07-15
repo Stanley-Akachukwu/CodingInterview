@@ -1,0 +1,15 @@
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\bin\Debug\net6.0\OOP.SealedClass.exe
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\bin\Debug\net6.0\OOP.SealedClass.deps.json
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\bin\Debug\net6.0\OOP.SealedClass.runtimeconfig.json
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\bin\Debug\net6.0\OOP.SealedClass.dll
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\bin\Debug\net6.0\OOP.SealedClass.pdb
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\OOP.SealedClass.csproj.AssemblyReference.cache
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\OOP.SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\OOP.SealedClass.AssemblyInfoInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\OOP.SealedClass.AssemblyInfo.cs
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\OOP.SealedClass.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\OOP.SealedClass.dll
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\refint\OOP.SealedClass.dll
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\OOP.SealedClass.pdb
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\OOP.SealedClass.genruntimeconfig.cache
+C:\Projects\Repos\MyCSharpDataStructure\SealedClass\obj\Debug\net6.0\ref\OOP.SealedClass.dll

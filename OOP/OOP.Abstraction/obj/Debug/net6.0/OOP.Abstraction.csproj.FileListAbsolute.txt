@@ -1,0 +1,15 @@
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\bin\Debug\net6.0\OOP.Abstraction.exe
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\bin\Debug\net6.0\OOP.Abstraction.deps.json
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\bin\Debug\net6.0\OOP.Abstraction.runtimeconfig.json
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\bin\Debug\net6.0\OOP.Abstraction.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\bin\Debug\net6.0\OOP.Abstraction.pdb
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\OOP.Abstraction.csproj.AssemblyReference.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\OOP.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\OOP.Abstraction.AssemblyInfoInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\OOP.Abstraction.AssemblyInfo.cs
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\OOP.Abstraction.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\OOP.Abstraction.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\refint\OOP.Abstraction.dll
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\OOP.Abstraction.pdb
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\OOP.Abstraction.genruntimeconfig.cache
+C:\Projects\Repos\MyCSharpDataStructure\OOP.Abstraction\obj\Debug\net6.0\ref\OOP.Abstraction.dll

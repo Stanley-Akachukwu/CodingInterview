@@ -1,0 +1,15 @@
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\bin\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.exe
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\bin\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.deps.json
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\bin\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.runtimeconfig.json
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\bin\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\bin\Debug\net6.0\ref\MyCSharpDataStructure.GetTheLongestValidWord.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\bin\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.pdb
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\obj\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.csproj.AssemblyReference.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\obj\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\obj\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.AssemblyInfoInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\obj\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.AssemblyInfo.cs
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\obj\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\obj\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\obj\Debug\net6.0\ref\MyCSharpDataStructure.GetTheLongestValidWord.dll
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\obj\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.pdb
+C:\Projects\Repos\MyCSharpDataStructure\MyCSharpDataStructure.GetTheLongestValidWord\obj\Debug\net6.0\MyCSharpDataStructure.GetTheLongestValidWord.genruntimeconfig.cache
