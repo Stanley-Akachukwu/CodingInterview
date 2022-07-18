@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingInterview", "CodingInterview\CodingInterview.csproj", "{A55A6D3A-978D-4BE9-AD7D-79CE23A5FDD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingInterview", "CodingInterview\CodingInterview.csproj", "{A55A6D3A-978D-4BE9-AD7D-79CE23A5FDD7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP", "OOP", "{E699FFE4-8AE0-4F81-A72F-D854B11DF42D}"
 EndProject
@@ -31,11 +31,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterCombinationOfPhoneNum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindIndicesOfTwoSum", "Array\TwoSum\FindIndicesOfTwoSum.csproj", "{F1C8D45C-9595-4611-902D-3CDBD7E40D10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMinDiff", "Array\GetMinDiff\GetMinDiff.csproj", "{C0B2FCD6-FDF1-4452-8F23-B0C7D81664DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetMinDiff", "Array\GetMinDiff\GetMinDiff.csproj", "{C0B2FCD6-FDF1-4452-8F23-B0C7D81664DD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Triangle", "Triangle", "{7E426E86-D1BB-4A33-A8A0-0FCC5AC2463A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPostionTriangle", "Triangle\CheckPostionTriangle\CheckPostionTriangle.csproj", "{69F999DA-168C-4278-AF09-831473B09842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckPostionTriangle", "Triangle\CheckPostionTriangle\CheckPostionTriangle.csproj", "{69F999DA-168C-4278-AF09-831473B09842}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AlgoModels", "AlgoModels", "{A528CFD0-43E3-497C-85FE-B4E0740789A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchDuo", "AlgoModels\BinarySearchDuo\BinarySearchDuo\BinarySearchDuo.csproj", "{5EA50C95-2EC0-44F6-8A96-B772741D0A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchSingle", "AlgoModels\BinarySearchSingle\BinarySearchSingle\BinarySearchSingle.csproj", "{F1BDECE3-C50C-4DB2-B3EB-3F5E181AC911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "AlgoModels\BubbleSort\BubbleSort\BubbleSort.csproj", "{481B4F5F-8D9D-4DB1-8C9B-958D43570941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "AlgoModels\LinearSearch\LinearSearch\LinearSearch.csproj", "{D8B4A2EC-6648-4E1E-8320-5235EE8FDEA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +109,22 @@ Global
 		{69F999DA-168C-4278-AF09-831473B09842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F999DA-168C-4278-AF09-831473B09842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F999DA-168C-4278-AF09-831473B09842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA50C95-2EC0-44F6-8A96-B772741D0A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA50C95-2EC0-44F6-8A96-B772741D0A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA50C95-2EC0-44F6-8A96-B772741D0A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA50C95-2EC0-44F6-8A96-B772741D0A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BDECE3-C50C-4DB2-B3EB-3F5E181AC911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BDECE3-C50C-4DB2-B3EB-3F5E181AC911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BDECE3-C50C-4DB2-B3EB-3F5E181AC911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BDECE3-C50C-4DB2-B3EB-3F5E181AC911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481B4F5F-8D9D-4DB1-8C9B-958D43570941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481B4F5F-8D9D-4DB1-8C9B-958D43570941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481B4F5F-8D9D-4DB1-8C9B-958D43570941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481B4F5F-8D9D-4DB1-8C9B-958D43570941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B4A2EC-6648-4E1E-8320-5235EE8FDEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B4A2EC-6648-4E1E-8320-5235EE8FDEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B4A2EC-6648-4E1E-8320-5235EE8FDEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B4A2EC-6648-4E1E-8320-5235EE8FDEA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -117,6 +143,10 @@ Global
 		{F1C8D45C-9595-4611-902D-3CDBD7E40D10} = {D6009C6F-B48E-4FB1-956F-168216A97F27}
 		{C0B2FCD6-FDF1-4452-8F23-B0C7D81664DD} = {D6009C6F-B48E-4FB1-956F-168216A97F27}
 		{69F999DA-168C-4278-AF09-831473B09842} = {7E426E86-D1BB-4A33-A8A0-0FCC5AC2463A}
+		{5EA50C95-2EC0-44F6-8A96-B772741D0A74} = {A528CFD0-43E3-497C-85FE-B4E0740789A6}
+		{F1BDECE3-C50C-4DB2-B3EB-3F5E181AC911} = {A528CFD0-43E3-497C-85FE-B4E0740789A6}
+		{481B4F5F-8D9D-4DB1-8C9B-958D43570941} = {A528CFD0-43E3-497C-85FE-B4E0740789A6}
+		{D8B4A2EC-6648-4E1E-8320-5235EE8FDEA7} = {A528CFD0-43E3-497C-85FE-B4E0740789A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EF06F567-9F13-4AD2-85FB-7E455214B491}
